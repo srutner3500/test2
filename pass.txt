@@ -1,2 +1,0 @@
-username="sara"
-password="w2e3r4"
